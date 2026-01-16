@@ -2,3 +2,7 @@ Milk
 Bread
 Bananas
 Eggs
+
+chips
+ice cream
+cookies
